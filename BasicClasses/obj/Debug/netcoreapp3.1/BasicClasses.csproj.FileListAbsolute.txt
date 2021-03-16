@@ -1,0 +1,13 @@
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.csprojAssemblyReference.cache
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.AssemblyInfoInputs.cache
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.AssemblyInfo.cs
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.exe
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.deps.json
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.runtimeconfig.json
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.runtimeconfig.dev.json
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.dll
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.pdb
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.dll
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.pdb
+C:\Users\cldon\Desktop\Repos\BasicClassesa\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.genruntimeconfig.cache
